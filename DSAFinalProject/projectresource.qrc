@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>html-templates/0/screen.png</file>
+        <file>html-templates/0/index.html</file>
+        <file>html-templates/0/css/main.css</file>
+        <file>html-templates/0/images/grid.png</file>
+        <file>html-templates/0/images/jonno.png</file>
+        <file>html-templates/0/images/separator.png</file>
+        <file>html-templates/0/images/header.png</file>
+        <file>html-templates/0/images/header-left.png</file>
+        <file>html-templates/0/images/header-right.png</file>
+        <file>html-templates/0/images/line.png</file>
+        <file>html-templates/1/screen.png</file>
+        <file>html-templates/1/index.html</file>
+        <file>html-templates/1/css/main.css</file>
+        <file>html-templates/1/images/grid.png</file>
+        <file>html-templates/1/images/jonno.png</file>
+        <file>html-templates/1/images/separator.png</file>
+        <file>html-templates/1/images/header.png</file>
+        <file>html-templates/1/images/header-left.png</file>
+        <file>html-templates/1/images/header-right.png</file>
+        <file>html-templates/1/images/line.png</file>
+    </qresource>
+</RCC>

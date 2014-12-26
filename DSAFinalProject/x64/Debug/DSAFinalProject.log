@@ -1,0 +1,62 @@
+﻿Build started 2/2/2014 10:02:18 PM.
+     1>Project "C:\Users\theAJFM\DSAFinalProject\DSAFinalProject.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(345,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>CustomBuild:
+         Moc'ing basicinfo.h...
+         Moc'ing education.h...
+         Moc'ing image.h...
+         Moc'ing mainwindow.h...
+         Moc'ing skills.h...
+         Moc'ing templating.h...
+         Moc'ing work.h...
+         Uic'ing basicinfo.ui...
+         Uic'ing education.ui...
+         Uic'ing image.ui...
+         Uic'ing mainwindow.ui...
+         Uic'ing skills.ui...
+         Uic'ing templating.ui...
+         Uic'ing work.ui...
+         Rcc'ing projectresource.qrc...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtWebKitWidgets /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtQuick /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtMultimediaWidgets /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtOpenGL /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtPrintSupport /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtWebKit /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtQml /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtMultimedia /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtWidgets /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtNetwork /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtSensors /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtGui /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtANGLE /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtCore /Idebug /I. /I"..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\mkspecs\win32-msvc2012" /I.\GeneratedFiles /Zi /nologo /W3 /WX- /Od /D _WINDOWS /D QT_CORE_LIB /D QT_GUI_LIB /D QT_MULTIMEDIA_LIB /D QT_MULTIMEDIAWIDGETS_LIB /D QT_NETWORK_LIB /D QT_OPENGL_ES_2 /D QT_OPENGL_ES_2_ANGLE /D QT_OPENGL_LIB /D QT_PRINTSUPPORT_LIB /D QT_QML_LIB /D QT_QUICK_LIB /D QT_SENSORS_LIB /D QT_WEBKIT_LIB /D QT_WEBKITWIDGETS_LIB /D QT_WIDGETS_LIB /D UNICODE /D UNICODE /D WIN32 /D WIN32 /D WIN64 /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt -Zm200 -w34100 -w34189 basicinfo.cpp Debug\moc_basicinfo.cpp Debug\moc_education.cpp Debug\moc_image.cpp Debug\moc_mainwindow.cpp Debug\moc_skills.cpp Debug\moc_templating.cpp Debug\moc_work.cpp education.cpp image.cpp main.cpp mainwindow.cpp skills.cpp templating.cpp work.cpp
+         basicinfo.cpp
+         moc_basicinfo.cpp
+         moc_education.cpp
+         moc_image.cpp
+         moc_mainwindow.cpp
+         moc_skills.cpp
+         moc_templating.cpp
+         moc_work.cpp
+         education.cpp
+         image.cpp
+         main.cpp
+         mainwindow.cpp
+         skills.cpp
+         templating.cpp
+         work.cpp
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtWebKitWidgets /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtQuick /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtMultimediaWidgets /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtOpenGL /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtPrintSupport /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtWebKit /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtQml /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtMultimedia /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtWidgets /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtNetwork /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtSensors /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtGui /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtANGLE /I..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\include\QtCore /Idebug /I. /I"..\..\..\Qt\Qt5.1.1\5.1.1\msvc2012_64\mkspecs\win32-msvc2012" /I.\GeneratedFiles /Zi /nologo /W3 /WX- /Od /D _WINDOWS /D QT_CORE_LIB /D QT_GUI_LIB /D QT_MULTIMEDIA_LIB /D QT_MULTIMEDIAWIDGETS_LIB /D QT_NETWORK_LIB /D QT_OPENGL_ES_2 /D QT_OPENGL_ES_2_ANGLE /D QT_OPENGL_LIB /D QT_PRINTSUPPORT_LIB /D QT_QML_LIB /D QT_QUICK_LIB /D QT_SENSORS_LIB /D QT_WEBKIT_LIB /D QT_WEBKITWIDGETS_LIB /D QT_WIDGETS_LIB /D UNICODE /D UNICODE /D WIN32 /D WIN32 /D WIN64 /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt -Zm200 -w34100 -w34189 GeneratedFiles\qrc_projectresource.cpp
+         qrc_projectresource.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\theAJFM\DSAFinalProject\x64\Debug\\DSAFinalProject.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.1.1\5.1.1\msvc2012_64\lib /LIBPATH:C:\Qt\Qt5.1.1\5.1.1\msvc2012_64\lib qtmaind.lib C:\Qt\Qt5.1.1\5.1.1\msvc2012_64\lib\Qt5WebKitWidgetsd.lib C:\Qt\Qt5.1.1\5.1.1\msvc2012_64\lib\Qt5Quickd.lib C:\Qt\Qt5.1.1\5.1.1\msvc2012_64\lib\Qt5MultimediaWidgetsd.lib C:\Qt\Qt5.1.1\5.1.1\msvc2012_64\lib\Qt5OpenGLd.lib C:\Qt\Qt5.1.1\5.1.1\msvc2012_64\lib\Qt5PrintSupportd.lib C:\Qt\Qt5.1.1\5.1.1\msvc2012_64\lib\Qt5WebKitd.lib C:\Qt\Qt5.1.1\5.1.1\msvc2012_64\lib\Qt5Qmld.lib C:\Qt\Qt5.1.1\5.1.1\msvc2012_64\lib\Qt5Multimediad.lib C:\Qt\Qt5.1.1\5.1.1\msvc2012_64\lib\Qt5Widgetsd.lib C:\Qt\Qt5.1.1\5.1.1\msvc2012_64\lib\Qt5Networkd.lib C:\Qt\Qt5.1.1\5.1.1\msvc2012_64\lib\Qt5Sensorsd.lib C:\Qt\Qt5.1.1\5.1.1\msvc2012_64\lib\Qt5Guid.lib C:\Qt\Qt5.1.1\5.1.1\msvc2012_64\lib\Qt5Cored.lib libEGLd.lib libGLESv2d.lib gdi32.lib user32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\theAJFM\DSAFinalProject\x64\Debug\DSAFinalProject.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X64 "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'"  /SUBSYSTEM:WINDOWS x64\Debug\basicinfo.obj
+         x64\Debug\moc_basicinfo.obj
+         x64\Debug\moc_education.obj
+         x64\Debug\moc_image.obj
+         x64\Debug\moc_mainwindow.obj
+         x64\Debug\moc_skills.obj
+         x64\Debug\moc_templating.obj
+         x64\Debug\moc_work.obj
+         x64\Debug\education.obj
+         x64\Debug\qrc_projectresource.obj
+         x64\Debug\image.obj
+         x64\Debug\main.obj
+         x64\Debug\mainwindow.obj
+         x64\Debug\skills.obj
+         x64\Debug\templating.obj
+         x64\Debug\work.obj
+         DSAFinalProject.vcxproj -> C:\Users\theAJFM\DSAFinalProject\x64\Debug\DSAFinalProject.exe
+     1>Done Building Project "C:\Users\theAJFM\DSAFinalProject\DSAFinalProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:29.01
